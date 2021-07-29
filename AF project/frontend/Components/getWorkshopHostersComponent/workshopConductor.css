@@ -1,0 +1,28 @@
+.card img {
+  width: 100%;
+}
+.pro-pic {
+  max-width: 200px !important;
+}
+.box-view {
+  padding: 15px;
+  width: 500px;
+  margin-left: 5px;
+}
+h1 {
+  color: black;
+}
+.header-box {
+  margin-top: 20px;
+}
+
+.hosterDiv {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  box-sizing: border-box;
+  margin-left: 5px;
+  text-align: center;
+}
+#outerCard {
+  margin-left: 10px;
+}

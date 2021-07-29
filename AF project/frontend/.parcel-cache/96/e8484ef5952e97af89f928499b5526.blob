@@ -1,0 +1,6 @@
+body {
+  min-height: 100vh;
+}
+.logoImg {
+  max-width: 100px;
+}

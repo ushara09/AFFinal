@@ -1,0 +1,9 @@
+.nav-link {
+  color: aliceblue !important;
+}
+#logoutEditor {
+  margin-right: 14px;
+}
+#logout {
+  float: right;
+}
